@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import './App.css'
 import Pokemoncard from './pokemoncard'
 const pokemonData = [{
